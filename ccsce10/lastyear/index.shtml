@@ -1,0 +1,87 @@
+<!--#include virtual="common/std_head_1.html" -->
+  <title>CCSCE 2009 Conference - Villanova University, Villanova PA</title>
+    <meta name="description" content="Villanova University, Villanova, Pennsylvania, hosts the Consortium for Computing Sciences in Colleges 2009 Eastern Conference, CCSCE2009." />
+    <style type="text/css">
+        *.shout {color: red; font-weight: bold;}
+
+    .nova1 {color: #FF0000}
+.style1 {color: #000000}
+    </style>
+  </head>
+  <body id="homepage"> 
+  <div id="wrapper">
+  
+<!-- I removed include of common/std_head_3.html  -->
+    <!--#include virtual="common/std_head_2.shtml" -->
+ 
+    <div id="nav_column">
+        <!--#include virtual="common/quick_nav.html" -->
+    </div> <!-- /nav_column -->
+    
+    <div id="start_main" class="central_column" >
+      <div style="font-size: 1em; text-align: center;">
+<!--
+   <img src="images/ccscEastern560.gif" alt="CCSC Eastern Region" style=""/>  
+        <h2>25th Annual Eastern Conference 2009<br />
+       <span style="font-size: smaller;"><span class="style1">October 30, 31 2009 </span><br />
+           Villanova University, Villanova, PA </span>
+         </h2>
+-->
+      </div>
+
+<div style="background-color: yellow; color: red; text-align: center; font-size:1.5em; "></div>
+<div class="floatbox">
+<h2 style="text-align: center; font-size: 1.4em; color: #c00; font-weight: bold;">Get Involved!</h2>
+
+<p>Interested in... Chairing a session?...Judging posters...Just helping out?<br />Get in touch with one of the conference co-chairs:</p>
+   <p>
+    Don Goelman (<a href="mailto:don.goelman@villanova.edu">don.goelman@villanova.edu</a>)<br /> or John Lewis (<a href="mailto:lewis63@vt.edu">lewis63@vt.edu</a>)<br />
+    Department of Computer Science<br />
+    Villanova University<br />
+    800 Lancaster Ave. <br />Villanova, PA 19085<br />
+    Phone: 610-519-6000<br />
+</p>
+</div>
+
+We hope you are planning to attend the CCSC Eastern 2009 Conference. The Committee has prepared an exciting program consisting of scholarly papers, tutorials, workshops, panels and lightning talks on current areas of computing education.  The <span class="shout"><a href="schedule-0822.htm">Preliminary Program at a Glance</a></span> is now available.  Watch for updates!
+
+<p>The CCSC Eastern Conference 2009 provides an affordable regional forum for exchange of ideas and information concerning computing and computing curricula in smaller academic institutions. </p>      
+
+<img src="images/mw2006-3.png" alt="" title="CCSCE 2009, Villanova University" style="float: left; margin-right: 15px;" />
+<h2>Speakers</h2>
+
+
+<p>Our banquet speaker will be John P. (J.D.) Dougherty of Haverford College, informing and entertaining us with his presentation of <em> "Well, My Computing Teacher Sings To Us!": Making Music to Help Students Learn.</em> The keynote speaker will be Catherine C. McGeoch of Amherst College speaking on <em>Experimental Algorithmics for Undergraduates</em>.  Thomas Murtagh of Williams College has been invited to present <em>Enriching CS 1 with a Networking Theme</em>.  There will be pre- and post-conference workshops, several tutorials, panels, lightning talks, and six sessions for papers.</p>
+
+<p>Two exciting activities are planned for students, a poster session and an undergraduate Programming Competition, both awarding prizes.</p>
+
+<p>Even if you missed the deadline for paper submissions to be included in the <strong><em>Journal of Computing Sciences</em></strong>, there are still opportunities to actively participate.  <span class="shout">We invite you to present a "Lightning Talk" or "Nifty Idea," prepare a faculty or student poster, chair a session, or simply to attend.</span> This year we especially welcome submissions addressing "Treats and Some Tricks in Computer Science Education." More information is available in the original Call for Participation, and important basic contact information  and details are listed below. We hope that you will join us and assure you that you will enjoy a rewarding experience.</p>
+ 
+<p class="shout"> Encourage your students to come as a Programming Team or Poster Presenter, too!</p>
+
+Important Deadlines (unless otherwise indicated):
+
+<h2>Call for Nifty Ideas and Lightning Talks</h2>
+<p>Last-chance Submissions: September 14, 2009<br />
+Contact: <a href="mailto:lsudol@andrew.cmu.edu">Leigh Ann Sudol</a> (lsudol@andrew.cmu.edu)</p>
+
+<h2>Call for Faculty Posters</h2>
+<p>Faculty Abstracts-Last-chance Submissions: September 30, 2009<br />
+Contact: <a href="mailto:dhovemey@ycp.edu">Dave Hovemeyer</a> (dhovemey@ycp.edu)</p>
+
+<h2>Call for Student Posters</h2>
+<p>Student Abstracts-Last-chance Submissions: September 30, 2009<br />
+Contact: <a href="mailto:dhovemey@ycp.edu">Dave Hovemeyer</a> (dhovemey@ycp.edu)</p>
+
+<h2>Call for Student Programming Competition Teams</h2>
+<p>Last Chance: September 30, 2009<br />
+Contact: <a href="mailto:"tcortina@tcnj.edu">Tom Cortina</a> (tcortina@tcnj.edu) or <a href="mailto:najib.nadi@villanova.edu">Najib Nadi</a> (najib.nadi@villanova.edu) or <a href="mailto:smore@mcdaniel.edu">Sara Miner More</a> (smore@mcdaniel.edu)
+</p>
+
+<h2>Call for Vendors</h2>
+<p>Deadline for Early Registration Rate: September 30, 2009<br /> 
+Contact: <a href="mailto:"frank.klassner@villanova.edu">Frank Klassner</a> (frank.klassner@villanova.edu)
+</p>
+ </div>
+
+<!--#include virtual="common/std_foot.shtml" -->

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+                 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml"   xml:lang="en">
+  <head>
+    <base href="http://projects.juniata.edu/ccsce10/" /> 
+    <link rel="stylesheet" 
+       href="common/ccsce08_screenstyle.css" type="text/css" media="screen" />
+    <link rel="stylesheet" 
+       href="common/ccsce08_printstyle.css" type="text/css" media="print" />
+
+   <script type="text/javascript">
+     <!--//--><![CDATA[//><!--
+   
+       function clearText(e) {
+           if(e.value == "Google Search")
+           {
+                e.value = "";
+                e.className = "googletype";
+           }  
+       }
+   
+     //--><!]]>
+   </script>
+
+  <title>CCSCE 2010 Conference - Juniata College, Huntingdon PA; Conference Committee</title>
+    <meta name="description" content="Juniata College, Huntingdon, Pennsylvania, hosts the Consortium for Computing Sciences in Colleges 2010 Eastern Conference, CCSCE2010." />
+    <style type="text/css">
+        *.shout {color: red; font-weight: bold;}
+
+    .nova1 {color: #FF0000}
+.style1 {color: #000000}
+    </style>
+  </head>
+  <body id="homepage"> 
+  <div id="wrapper">
+  
+    <div id="dept_name" >
+    <ol title="internal page navigation" class="access_item">
+      <li><a href="/index.shtml#start_main" 
+             title="Beginning of page content.">Skip to main content</a></li>
+      <li><a href="/index.shtml#nav_column" 
+             title="Additional navigation.">Skip to sidebar</a></li>
+    </ol>
+    
+<!-- lines below inserted by Dr Joyce Dec 2, 2008 -->  
+<img src="CCimages/eastern.png" 
+ alt="Eastern region" width="193" height="186" border="0" 
+ style="float:left;" >
+
+<img src="CCimages/ccsc.jpg" alt="ccsc east" width="581" height="70"  
+style="margin: 20px 0px">
+
+<div style="font-size: 1em; text-align: center;">
+<p style="margin-top: 0;">26th Annual Eastern Conference 2010<br />
+   <span style="font-size: smaller;">October 15 and 16, 2010 &nbsp;
+   Juniata College, Huntingdon, Pennsylvania</span><br />
+   <em>Getting There is Half the Fun</em>
+
+</p>
+</div>
+
+<!-- end of lines inserted by Dr Joyce Dec 2, 2008 ?????  -->
+
+</div> <!--dept_name -->
+<div class="breaker"></div>
+
+ 
+    <div id="nav_column">
+         <!-- Navigation: TOC -->
+  <h2>CCSCE 2010:</h2>
+  
+  <h3>Conference Information</h3>
+  <ol>
+       <li><a href="http://projects.juniata.edu/ccsce10/index.shtml">CCSCE10 Home</a></li>
+       <li><a href="pdf/CFPBrochure10.pdf"target="_blank">Call for Participation Brochure 2010</a> <span class="teeny">(PDF, updated 03/10)</span></li> 
+       <li><a href="pdf/Program2010.pdf">Program</a></li>
+       <li><a href="pdf/Pocket2010.pdf">Pocket Program</a> <span class="teeny">(PDF, updated 09/10)</span></li>
+       <li><a href="papers/reviewers/index.html">Call for Reviewers</a></li>
+       <li><a href="registration.shtml">Registration Fees &amp; Forms</a></li>
+       <li><a href="vendors.shtml">Vendor Information</a></li>
+       <li><a href="committee.shtml">Conference Committee</a></li>
+       <li><a href="steering.shtml">CCSC Eastern Steering Committee</a></li>
+       <li><a href="k-12.shtml">K-12 Information</a></li>
+  </ol>
+
+  <h3>Submissions</h3>
+     <ol>
+ 
+      <!-- <li><a href="http://acharya.ramapo.edu/~csconf/ccsce/2009/authors/index.html"target="_blank">Call for Papers</a></li>
+       <li><a href="panels.shtml">Panels</a></li>
+       <li><a href="workshops.shtml">Workshops &amp; Tutorials</a></li>
+       <li><a href="nifty.shtml">Nifty Ideas &amp; Lightning Talks</a></li>
+       <li><a href="posters.shtml">Faculty &amp; Student Posters </a></li>
+
+       <li><a href="contest.shtml">Student Programming Contest</a></li>-->
+<!--
+       <li>Student Programming Contest - info coming soon</a></li>
+-->
+<font color="grey">
+	<li><a href="papers/index.html">Papers</a></li>
+	<ul>
+		<li><a href="papers/authors/index.html">Authors</a></li>
+		<li><a href="papers/reviewers/index.html">Reviewers</a></li>
+		<li><a href="papers/presenters/index.html">Presenters</a></li>
+	</ul>
+       <li><a href="panels.shtml">Panels</a></li>
+       <li><a href="workshops.shtml">Workshops &amp; Tutorials</a></li>
+       <li><a href="nifty.shtml">Nifty Ideas &amp; Lightning Talks</a></li>
+	 <li><a href="posters.shtml">Faculty &amp; Student Posters </a></li>
+       <li><a href="contest.shtml">Student Programming Contest</a></li>
+</font>
+  </ol>
+
+   <h3>Local Information</h3>
+   <ol>
+		<li><a href="accommodations.shtml">Accommodations</a></li>
+   		<li><a href="http://www.raystown.org/"target="_blank">Visitors Bureau</a></li>
+		<li><a href="http://www.juniata.edu/about/visit"target="_blank">Visit Juniata</a></li>
+		<li><a href="http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=100914368038453615556.000475fc9439c3dc5a6e9&ll=40.498594,-78.015397&spn=0.010834,0.022724&t=h&z=16"target="_blank">Google Map</a></li>
+		<li><a href="pdf/juniata_college_campus_map.pdf"target="_blank">Campus Map</a> <span class="teeny">(PDF)</span></li>
+		<li><a href="pdf/BACMap.pdf"target="_blank">Building Layout</a><span class="teeny">(PDF)</span></li>
+
+      <!-- <li><a href="hotel.shtml">Conference Hotel</a></li>
+       <li><a href="http://www.villanova.edu/studentlife/specprograms/parents/visit/hotels.htm"target="_blank">Other Hotels &amp; Motels</a></li>	
+       <li><a href="http://www.villanova.edu/enroll/admission/visit/maps/index.htm"target="_blank">Travel Directions</a></li>	
+       <li><a href="http://www.villanova.edu/services/assets/documents/conferenceservices/map.pdf"target="_blank">Campus Map &amp; Parking</a></li>
+       <li><a href="http://pennsylvania.hometownlocator.com/PA/Delaware/Villanova.cfm"target="_blank">Villanova, Pennsylvania</a></li>-->
+  </ol>
+
+   <h3>Sponsoring Organizations</h3>
+   <ol>
+       <li><a href="http://ccsc.org"target="_blank">Consortium for Computing Sciences in Colleges (CCSC)</a></li>	
+       <li><a href="http://www.sigcse.org/"target="_blank">ACM-SIGCSE</a></li>	
+	 <li><a href="http://upe.acm.org/"target="_blank">Upsilon Pi Epsilon</a></li>
+	 <li><a href="http://www.minitab.com/"target="_blank">Minitab</a></li>
+	 <li><a href="http://www.dsiiti.com/"target="_blank">Digital Solutions/Inmate Telephone, Inc.</a></li>
+       <li><a href="http://www.juniata.edu/"target="_blank">Juniata College </a></li>
+       <li><a href="http://www.juniata.edu/departments/itcs/"target="_blank">Juniata College Information Technology and Computer Science </a></li>
+</ol>
+   <h3>National Partners</h3>
+   <ol>
+       <li><a href="http://www.cengage.com"target="_blank">Cengage Learning</a></li>	
+       <li><a href="http://www.microsoft.com"target="_blank">Microsoft Corporation</a></li>
+       <li><a href="http://www.panasonic.com"target="_blank">Panasonic Corporation	
+       <li><a href="http://www.shodor.org"target="_blank">Shodor</a></li>
+       <li><a href="http://turingscraft.com"target="_blank">Turing's Craft</a></li>
+   </ol>
+
+     <hr style="width: 50%" />
+      <p style="text-align: center">October 15 and 16, 2010<br />
+         Juniata College<br /> 
+         Huntingdon, PA </p>
+      
+
+    </div> <!-- /nav_column -->
+   
+    <div id="start_main" class="central_column" >
+
+   <h2 class="head">Vendors</h2>
+
+
+
+
+
+<div class="floatbox">
+
+   <p><em>Contents</em></p>
+
+      <ul>
+
+      <li><a href="vendors.shtml#about">About CCSC</a></li>
+
+       <li><a href="vendors.shtml#type">Types of Products</a></li>
+
+      <li><a href="vendors.shtml#advantage">Advantages for Exhibitors</a></li>
+
+      <li><a href="vendors.shtml#national">National Affiliation</a></li>
+
+      <li><a href="vendors.shtml#fees">Fees and Registration</a></li>
+
+      <li><a href="vendors.shtml#contact">Contact Information</a></li>
+
+   </ul>
+
+
+
+   <p><em>Important Dates</em></p>
+
+      <ul>
+
+      <li>September 15, 2010: Last chance for the Early Bird Registration fee</li>
+
+      <li>October 7, 2010: Last chance for late/on-site registration</li>
+
+   </ul>
+
+</div>
+
+
+
+<h2>About CCSC</h2>
+
+<p>The Consortium for Computing Sciences in Colleges is a non-profit organization focused on promoting quality computer-oriented curricula as well as effective use of computing in smaller institutions of higher learning, which are typically non-research in orientation. It supports activities, which assist faculty in making appropriate judgments concerning computing resources and educational applications of computer technology.</p>
+
+ 
+
+<p>The Consortium is concerned with the advancement of major programs in both Computer Science and Computer Information Systems, and with the use of computers in the Liberal Arts and Sciences. </p>
+
+ 
+
+<p>CCSC currently sponsors ten regional conferences in eight regions: Northeastern, Eastern, Southeastern, Midwestern, Rocky Mountain, Northwestern, South Central, and Central Plains.  CCSC publishes the Journal of Computing Sciences in Colleges, which is included in the ACM Digital Library.  </p>
+
+<p>
+
+Typically the faculty members who attend these conferences are from primarily undergraduate institutions whose main focus is undergraduate teaching.  Attendance has varied based on regions and years, and ranges from 60 to 265 attendees each conference.  This year we are also planning sessions for K-12 teachers and administrators, who are interested in exploring the use of technology in their schools. In addition, we are endeavoring to attract college students, many of whom will be the teachers of tomorrow.</p>
+
+
+
+<h2 id="type">Types of products</h2>
+
+<p>This is the first time the CCSC Eastern Regional Conference will be held at Juniata College. 
+We are at the western edge of the CCSC Eastern Region, so we are hoping to see some new faces at this
+years conference and have been actively working with the community of colleges around us.  We are also 
+working to appeal to the K-12 community and have invited them to join us for special sessions and 
+possible credit towards their continuing education.</p>
+
+<p> We invite both national and local vendors to lease display table(s) at the conference to display and demonstrate their products. Textbooks, software, and hardware are among the types of products that have been exhibited in the past.</p>
+
+
+
+<p class="feature">Vendors may also sponsor a Conference event (refreshment break, luncheon, etc.) or participant gift (e.g. tote bag), speaker, or student prizes (Programming Competition, Poster). </p>
+
+
+
+
+
+<h2 id="advantage">Advantages to Exhibitors</h2>
+
+<p>Some advantages to exhibitors include:</p>
+
+<ul>
+
+<li>the opportunity to interact on a personal level with a significant number of persons (professors and administrators) directly responsible for the purchase of your products. </li>
+
+<li>the opportunity to make contact with individuals who do not regularly attend national meetings because of the limited travel funds available to participants from smaller institutions. </li>
+
+<li>the opportunity to network with K-12 faculty and administrators, who are interested in technology in their schools</li>
+
+<li>the possibility of demonstrating your products in a workshop setting. </li>
+
+<li>an exhibit of your products for the entire two days of the conference.</li>
+
+<li>the relatively low cost of exhibiting at our meeting. The registration fee for vendors is $150 and includes meals for two representatives. </li>
+
+</ul>
+
+
+
+
+
+<h2 id="national">National Partners</h2>
+
+<p>Over the years, for a vendor registration fee several vendors, including book vendors and software 
+vendors, have attended and displayed at these regional conferences.  As a result of vendor interest 
+in CCSC conferences, CCSC now offers a national vendor registration at the base rate of $2000/year. 
+Currently Cengage Learning, Microsoft Corporation, Shodor, and Turing's Craft 
+are participating in this program. 
+
+(See <a href="http://ccsc.org/home/partners.htm">http://ccsc.org/home/partners.htm</a>)</p>
+
+
+
+<h2 id="fees">Fees and Registration</h2>
+
+
+
+<table>
+
+<tr><td>National Partner</td><td>No registration fee</td></tr>
+
+<tr><td>Regular Exhibitor</td><td>Registration $150</td></tr>
+
+<tr><td>Extras</td><td>Extra table: $75<br/>
+
+Extra Friday Banquet Ticket: $55/ticket<br/>
+
+Extra Saturday Lunch Ticket: $25/ticket</td></tr>
+
+</table>
+
+<p>Registration forms and more information can be found on the <a href="registration.shtml">registration page</a>.</p>
+
+
+<h2 id="contact">Contact Information</h2>
+
+
+
+<p>For more information about attending the conference as a vendor, contact:  <a href="mailto:ccsce10@juniata.edu">the conference co-chairs</a> (ccsce10@juniata.edu)</p>
+
+
+   </div><!--start_main-->
+
+
+
+  <div class="breaker"></div>
+  <div id="footer">
+    Comments and questions to <a href="mailto:ccsce10@juniata.edu">ccsce10@juniata.edu</a><br />
+    <address>
+    Department of Information Technology and Computer Science, 
+      Juniata College<br /> 
+      1700 Moore Street, Huntingdon, PA 16652 ~ 
+      Phone (814)641-3000
+    </address>
+  </div> <!--footer-->
+
+</div> <!--wrapper-->  
+
+<div id="wrapper2">
+       <div id="badges" class="no_print">
+         <a href="http://validator.w3.org/check?uri=referer">
+           <img  src="http://www.w3.org/Icons/valid-xhtml10-blue.png"
+                 alt="Valid XHTML 1.0!" 
+                 class="w3badge" /></a>
+         <a href="http://jigsaw.w3.org/css-validator/" title="W3C CSS Validator">
+           <img  src="http://www.w3.org/Icons/valid-css1-blue.png" 
+               alt="Valid CSS!"
+               class="w3badge" /></a>
+       </div><!--badges-->
+       <div style="font-size: 0.7em;text-align: left;">
+         
+          Last Modified:  20 July 2010
+       </div><!--badges-->
+</div> <!--wrapper2-->
+
+</body>
+</html>
+

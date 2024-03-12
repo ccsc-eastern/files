@@ -1,0 +1,441 @@
+/* This is a "liquid" style - one that will adjust to different window sizes. */
+
+
+
+body {
+
+   background-color: #fff;
+
+   color: #000; 
+
+   font-family: Verdana, Arial, Helvetica, sans-serif; 
+
+   font-size: .9em;
+
+   margin: 8px 12px;
+
+   }
+
+  
+
+img {
+
+   border: none;
+
+   }
+
+
+
+img.leftie {
+
+   float: left;
+
+   margin-right: 12px;
+
+   margin-bottom: 12px;
+
+   }
+
+
+
+img.rightie {
+
+   float: right;
+
+   margin-left: 12px;
+
+   margin-bottom: 12px;
+
+   }
+
+   
+
+img.centered {
+
+   display: block;
+
+   float: none;
+
+   margin-left: auto;
+
+   margin-right: auto;
+
+   }
+
+   
+
+   
+
+h1, h2, h3, h4 {
+
+   font-weight: normal;
+
+   letter-spacing: 1px;
+
+   }
+
+   
+
+h1 {
+
+   font-size: 135%;
+
+   }
+
+    
+
+h2 {
+
+   font-size: 118%;
+
+   }
+
+   
+
+h2.page_head {
+
+   font-size: 130%;
+
+   }
+
+      
+
+h3 {
+
+   font-size: 110%;
+
+   }
+
+   
+
+p {
+
+   margin-left: 12px;
+
+   } 
+
+
+
+a:link {
+
+   color: #369;
+
+   } 
+
+
+
+a:hover {
+
+   color: #09c;
+
+   } 
+
+ 
+
+blockquote {
+
+   margin-left: 10%;
+
+   margin-right: 10%;
+
+   font-style: italic;
+
+   }
+
+
+
+div.news_bit {
+
+   margin: 12px;
+
+   }
+
+
+
+.news_bit h4 {
+
+   font-size: 1em;
+
+   display: inline;
+
+   }
+
+ 
+
+div.author {
+
+   text-align: right; 
+
+   margin-right: 15px;
+
+   }
+
+ 
+
+/* A handy hack */   
+
+
+
+.breaker {
+
+   width: 100%; 
+
+   clear: both; 
+
+   margin: 0 0 0 0;
+
+   padding: 0 0 0 0;
+
+   height: 0px;
+
+   line-height: 0px;
+
+   font-size: 0px;
+
+   }
+
+
+
+ /* Department banner & search */   
+
+ 
+
+ #dept_name {
+
+   background: #fff url(http://cs.hood.edu/images/composite4.jpg);
+
+   }
+
+   
+
+#dept_name  h1 {
+
+   margin: .5em 12px 0 0; 
+
+   text-align: right; 
+
+   padding-top: 2em;
+
+   color: #036; 
+
+   }
+
+   
+
+#dept_name  h1 a{ 
+
+   color: #047; 
+
+   text-decoration: none;
+
+   font-weight: normal;
+
+   }
+
+ 
+
+#searchbox {   
+
+   visibility: hidden;
+
+   }
+
+
+
+#bar  {
+
+  display: none;
+
+  padding: 0;
+
+  margin: 0;
+
+  background: #036;  
+
+  border-bottom:  6px double #fff;
+
+  }
+
+
+
+ #bar  ol {
+
+   width: 100%;
+
+   padding: 0;
+
+   margin: 0;
+
+   list-style-type: none;
+
+   }
+
+
+
+ #bar  li {
+
+   width: 16.2%;
+
+   display: block;
+
+   float: left; 
+
+   text-align: center;    
+
+   border-left: 1px solid #fff; 
+
+
+
+  }
+
+
+
+ #bar ol li a {
+
+   padding: 0;
+
+   margin: 2px 0 2px 0;
+
+   color: #fff;;
+
+   text-decoration: none;
+
+   font-weight: bold;
+
+   font-size:    .9em;
+
+   }
+
+
+
+#bar ol li:first-child {
+
+   border-left: 1px #036; 
+
+   }
+
+  
+
+#nav_column {
+
+   display:none;
+
+   }
+
+   
+
+#graphic_bar {
+
+   display:none;
+
+   }
+
+
+
+/* All the main content boxes belong to the central class. */
+
+div.central_column {
+
+	padding:10px;
+
+	}
+
+
+
+div.secondary_central_column	{
+
+   margin-right: auto;
+
+	padding:10px;
+
+	}
+
+
+
+/* Standard footer and identification */
+
+
+
+#footer {
+
+   text-align: center;
+
+   font-size: .8em;
+
+   background: rgb(245, 245, 245);
+
+   padding-bottom: 15px;
+
+   }
+
+   
+
+address {
+
+   font-style: normal;
+
+   }
+
+   
+
+ /* Go to Top link for long pages  */
+
+
+
+div.go_top {
+
+   display: none;
+
+   }
+
+   
+
+/* pagemenu for internal page navigation  */
+
+   
+
+ul.pagemenu {
+
+   list-style-type: none;
+
+   }
+
+   
+
+ul.pagemenu a {
+
+   display: block; 
+
+   padding-left: 15px; 
+
+   margin-bottom: 0; 
+
+   margin-top: 10px;
+
+   }
+
+   
+
+.form_frame {
+
+   border: dotted 2px #ddd; 
+
+   padding: 5px;
+
+   }
+
+
+
+.access_item {
+
+   display:none
+
+   }
+
+
+
+.no_print {
+
+   display:none;
+
+   }

@@ -1,0 +1,29 @@
+<div id="dept_name" >
+    <ol title="internal page navigation" class="access_item">
+      <li><a href="<!--#echo var='DOCUMENT_URI' -->#start_main" 
+             title="Beginning of page content.">Skip to main content</a></li>
+      <li><a href="<!--#echo var='DOCUMENT_URI' -->#nav_column" 
+             title="Additional navigation.">Skip to sidebar</a></li>
+    </ol>
+    
+<!-- lines below inserted by Dr Joyce Dec 2, 2008 -->  
+<img src="CCimages/eastern.png" 
+ alt="Eastern region" width="193" height="186" border="0" 
+ style="float:left;" >
+
+<img src="CCimages/ccsc.jpg" alt="ccsc east" width="581" height="70"  
+style="margin: 20px 0px">
+
+<div style="font-size: 1em; text-align: center;">
+<p style="margin-top: 0;">25th Annual Eastern Conference 2009<br />
+   <span style="font-size: smaller;">October 30 and 31, 2009 &nbsp;
+   Villanova University, Villanova, Pennsylvania</span><br />
+   <em>Treats and Some Tricks in Computer Science Education</em>
+
+</p>
+</div>
+
+<!-- end of lines inserted by Dr Joyce Dec 2, 2008 ?????  -->
+
+</div> <!--dept_name -->
+<div class="breaker"></div>

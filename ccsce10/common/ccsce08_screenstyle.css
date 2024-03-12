@@ -1,0 +1,347 @@
+/* Variation on CS Department created for the CCSCE 2008 Subsite */
+
+body {
+   background-color: RGB(246, 248, 239);
+   background-color: RGB(186, 176, 166); 
+   background-color: #eee;
+   color: #000; 
+   font-family: Verdana, Arial, Helvetica, sans-serif; 
+   font-size: .9em;
+   margin: 0;
+   padding-top: 2px;
+   }
+
+#wrapper {
+   width: 780px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: #fff;
+   background-image: url(../CCimages/bkstripe.gif);  
+   background-repeat: repeat-y;
+   }
+
+#wrapper2 {
+   width: 780px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: transparent;
+   }
+
+
+img {
+   border: none;
+   }
+
+img.leftie {
+   float: left;
+   margin-right: 12px;
+   margin-bottom: 12px;
+   }
+
+img.rightie {
+   float: right;
+   margin-left: 12px;
+   margin-bottom: 12px;
+   }
+
+img.centered {
+   display: block;
+   float: none;
+   margin-left: auto;
+   margin-right: auto;
+   }
+
+img.w3badge{
+   height: 31px; 
+   width: 88px; 
+   margin-top: 20px;
+   float: right;
+   }
+
+#badges {
+   text-align: right;
+   }
+   
+h1, h2, h3, h4 {
+   font-family: inherit;
+   font-weight: normal;
+   letter-spacing: 1px;
+   }
+   
+h1 {
+   font-size: 145%;
+   text-align: right;
+   font-weight: 600;
+   }
+   
+.heading {
+   background-image: url(../images/screen_01.gif);
+   background: transparent;
+   }
+   
+h2 {
+   font-size: 118%;
+   margin-bottom: 2;
+   }
+
+h2.page_head {
+   font-size: 125%;
+   font-weight: bold;
+   }
+    
+h3 {
+   font-size: 110%;
+   }
+
+p {
+   font-family: inherit;
+   margin-left: 12px;
+   } 
+
+a {
+   font-family: inherit;
+   color: #67a;
+   }
+
+a:link {
+   font-family: inherit;
+   color: #67a;
+   } 
+
+a:visited {
+   font-family: inherit;
+   color: #a67;
+   } 
+
+a:hover {
+   color: #09c;
+   } 
+
+blockquote {
+   font-family: inherit;
+   margin-left: 2.5em;
+   margin-right: 2.5em;
+   font-style: italic;
+   color:#777;
+   }
+
+div.news_bit {
+   margin: 12px;
+   }
+
+div.news_bit h3 {
+   font-size: 1em;
+   display: inline;
+   }
+
+ 
+div.author {
+   text-align: right; 
+   margin-right: 15px;
+   }
+   
+/* A handy hack */   
+
+.breaker {
+   width: 100%; 
+   clear: both; 
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   height: 0px;
+   line-height: 0px;
+   font-size: 0px;
+   }
+ 
+ /* Department banner & search */   
+ 
+  
+#dept_name  h1 {
+   font-family: inherit;
+   margin: 0; 
+   text-align: right; 
+   padding-top: 1.5em;
+   padding-right: 12px;
+   color: #036; 
+   background: #fff;
+   border-bottom: ridge 3px #69c
+   }
+
+#dept_name.title_sub  h1 {
+   padding-top: 1em;
+   }
+
+#dept_name  h1 a{ 
+   font-family: inherit;
+   color: #047; 
+   text-decoration: none;
+   font-weight: normal;
+   }
+ 
+#searchbox {   
+   float: right;  
+   padding-right: 1em; 
+   padding-top: 1em;
+   padding-bottom: 0;
+   margin-bottom: 0;
+   }
+
+#dept_name.title_sub  #searchbox {
+   padding: 0;
+   padding-top: 5px;
+   }
+
+/* --- Navigation Menubar */
+
+#bar  {
+  font-family: inherit;
+  display: block;
+  padding: 0;
+  margin: 0;
+  background: #036;  
+  border-bottom:  6px double #fff;
+  }
+
+ #bar  ol {
+   width: 100%;
+   padding: 0;
+   margin: 0;
+   list-style-type: none;
+   }
+
+ #bar  li {
+   padding: 1px 0;
+   width: 14.1%;
+   display: block;
+   float: left; 
+   text-align: center;    
+   border-left: 1px solid #fff; 
+
+  }
+
+ #bar ol li a {
+   padding: 0;
+   margin: 2px 0 2px 0;
+   color: #fff;
+   text-decoration: none;
+   font-weight: bold;
+   font-size:    1em;
+   display:block;
+   }
+
+#bar ol li:first-child {
+   border-left: 1px #036; 
+   }
+   
+ #bar ol li a:hover {
+   background: #39c;
+   color: #036;
+   }
+
+/* All the main content boxes belong to the central class. */
+div.central_column {
+   margin-left: 195px;
+	padding:12px;
+	}
+	
+div.secondary_central_column	{
+	margin: 0 12px 20px 155px;
+	padding:10px;
+	}
+
+div.central_column h3 {
+   background: transparent;
+   }
+
+div.central_column a {
+   text-decoration: underline;
+   }
+
+
+#nav_column {
+   font-family: Arial, Helvetica, sans-serif; 
+   font-size: 0.8em;
+   float: left;  	
+   width: 175px;
+   background: transparent;
+   padding: 0.75em;  
+	}
+
+   
+#nav_column h2, h3 {
+   display: block;
+   margin: 0;
+   font-size: 0.9em;
+   font-weight: 500;
+   margin-top: 20px; 
+   text-align: left;
+   }
+
+#nav_column dt {
+   margin-left: 5px;
+   font-size: .95em;
+   }  
+#nav_column dd {
+   margin-left: 10px;
+   margin-bottom: 6px;
+   font-size: 0.8em;
+   }
+   
+#nav_column ol {
+   list-style-type: none;
+   margin-left: 0;
+   margin-top: 0;
+   padding-left: 0;
+   font-size: .85em;
+   }
+
+#nav_column li {
+   margin-top: 0;
+   margin-bottom: 5px;
+   margin-left: 8px;
+   }
+   
+#nav_column select {
+   margin: 0; padding: 0; 
+   }
+
+#nav_column option {
+   margin: 0; padding: 2px; 
+   }
+   
+#footer {
+   text-align: center;
+   font-size: .8em;
+   background: #fff;
+   padding-bottom: 15px;
+   border-top: ridge 3px #69c;
+   bottom: 0;   
+   }
+   
+address {
+   font-style: normal;
+   }
+   
+ /* Accessibility items will show in user-agents that don't handle the GUI styling */
+.access_item {display:none}
+
+h2.head {
+   margin-top: 0;
+   font-weight: bold
+   }
+      
+#main h3 {
+   font-weight: bold;
+   }
+   
+div.floatbox {
+   width: 200px;
+   float: right;
+   border: solid thin  #69c;
+   padding: 4px 4px 4px 0;
+   font-size: 80%;
+   margin: 0 0 .5em .5em;
+   }
+   
+div.floatbox li + li {
+   margin-top: 0.3em;
+   }

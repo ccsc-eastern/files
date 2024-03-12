@@ -1,0 +1,32 @@
+  <div class="breaker"></div>
+  <div id="footer">
+    Comments and questions to <a href="mailto:csdept@villanova.edu">csdept@villanova.edu</a><br />
+    <address>
+    Department of Computer Science, 
+      Villanova University<br /> 
+      800 Lancaster Avenue, Villanova, PA 19087 ~ 
+      Phone (610)519-6000
+    </address>
+  </div> <!--footer-->
+
+</div> <!--wrapper-->  
+
+<div id="wrapper2">
+       <div id="badges" class="no_print">
+         <a href="http://validator.w3.org/check?uri=referer">
+           <img  src="http://www.w3.org/Icons/valid-xhtml10-blue.png"
+                 alt="Valid XHTML 1.0!" 
+                 class="w3badge" /></a>
+         <a href="http://jigsaw.w3.org/css-validator/" title="W3C CSS Validator">
+           <img  src="http://www.w3.org/Icons/valid-css1-blue.png" 
+               alt="Valid CSS!"
+               class="w3badge" /></a>
+       </div><!--badges-->
+       <div style="font-size: 0.7em;text-align: left;">
+         <!--#config timefmt="%d %B %Y. %H:%M " -->
+          Last Modified:  <!--#echo var='LAST_MODIFIED' -->
+       </div><!--badges-->
+</div> <!--wrapper2-->
+
+</body>
+</html>

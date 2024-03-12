@@ -1,0 +1,178 @@
+<!--#include virtual="common/std_head_1.html"-->
+
+  <title>CCSCE 2010 Conference - Juniata College, Huntingdon PA; Conference Committee</title>
+
+    <meta name="description" content="Juniata College, Huntingdon, Pennsylvania, hosts the Consortium for Computing Sciences in Colleges 2010 Eastern Conference, CCSCE2010." />
+
+  <style type="text/css">
+
+      dt {
+
+         font-size: 105%;
+
+         margin-top: .7em;
+
+         }
+
+      dd {
+
+         font-style: italic;
+
+         }
+
+  </style>
+
+  </head>
+
+  <body id="committee">
+
+  <div id="wrapper">
+
+  
+
+    <!--#include virtual="common/std_head_3.html" -->
+
+    <!--#include virtual="common/std_head_2.shtml" -->
+
+ 
+
+    <div id="nav_column">
+
+        <!--#include virtual="common/quick_nav.html" -->
+
+    </div> <!-- /nav_column -->
+
+    
+
+    <div id="start_main" class="central_column" >
+
+
+
+   <h2 class="head">Conference Committee</h2>
+
+
+
+   <dl>
+
+      <dt>Co-Chairs</dt>
+
+      <dd><a href="mailto:kruse@juniata.edu">Jerry Kruse</a>, Juniata College<br/>
+        <a href="mailto:wrightj@juniata.edu">John Wright</a>, Juniata College<br/>
+		<a href="mailto:thomas@juniata.edu">Bill Thomas</a>, Juniata College</dd>
+		
+      <dt>Registration</dt>
+
+      <dd>   
+
+         <a href="mailto:ccsce10@juniata.edu">TBD</a>, Juniata College      </dd>
+
+
+
+      <dt>Local Arrangements</dt>
+
+      <dd>   
+      <a href="mailto:wrightj@juniata.edu">John Wright</a>, Juniata College      <br />
+      <a href="mailto:kruse@juniata.edu">Jerry Kruse</a>, Juniata College      </dd>      
+
+      
+<!--
+      <dt>Papers</dt>
+
+      <dd>   
+
+         <a href="mailto:depasqua@tcnj.edu">Pete DePasquale</a>, The College of New Jersey<br />
+
+         <a href="mailto:amruth@ramapo.edu">Amruth Kumar</a>, Ramapo College      </dd>      
+
+
+-->
+
+      <dt>Panels, Workshops, and Tutorials</dt>
+
+      <dd>   
+
+         <a href="mailto:kwatt@mtaloy.edu">Karen Watt</a>, Mount Aloysius College<br />
+
+         <a href="mailto:highly@lasalle.edu">T.J. Highly</a>, La Salle University      </dd>  
+
+
+<!--
+      <dt>Nifty Ideas &amp; Lightning Talks</dt>
+
+      <dd>   
+
+         <a href="mailto:mchitsaz@frostburg.edu">Mohsen Chitsaz</a>, Frostburg State University<br />
+  	 <a href="mailto:mflinn@frostburg.edu">Michael Flinn</a>, Frostburg State University
+      </dd> 
+
+
+-->
+      <dt>Student &amp; Faculty Posters</dt>
+
+      <dd>   
+
+         <a href="mailto:dhovemey@ycp.edu">Dave Hovemeyer</a>, York College of Pennsylvania<br /> 
+      </dd>   
+
+
+<!--
+      <dt>Undergraduate Programming Contest</dt>
+
+      <dd>   
+
+         <a href="mailto:tcortina@cs.cmu.edu">Thomas Cortina</a>, Carnegie Mellon University<br />
+
+         <a href="mailto:najib.nadi@villanova.edu">Najib Nadi</a>, 
+ Villanova University<br />
+
+         <a href="mailto:smore@mcdaniel.edu">Sara Miner More</a>, McDaniel College<br />
+      </dd>   
+
+
+      <dt>Speakers</dt>
+
+      <dd>   
+         <a href="mailto:donna.schaeffer@marymount.edu">Donna Schaeffer</a>, Marymount University<br \>
+         <a href="mailto:michelle.liu@marymount.edu">Michelle Liu</a>, Marymount University
+      </dd>  
+-->
+
+      <dt>Vendors</dt>
+
+      <dd>   
+
+         <a href="mailto:ccsce10@juniata.edu">TBD</a>, Juniata College      </dd>  
+
+
+
+      <dt>Web Site</dt>
+
+      <dd>   
+
+         <a href="mailto:rauptj07@juniata.edu">Travis Raup</a>, Juniata College<br />
+
+         <a href="mailto:thomas@juniata.edu">Bill Thomas</a>, Juniata College<br />   
+	   <a href="mailto:wrightj@juniata.edu">John Wright</a>, Juniata College   </dd>   
+
+      <dt>K-12</dt>
+
+      <dd>
+
+          <a href="mailto:jones@juniata.edu">Kathleen Jones</a>, Juniata College      </dd>
+
+      <dt>2011 Conference Chairs</dt>
+
+      <dd>
+
+          <a href="diane.murphy@marymount.edu">Diane Murphy</a>, Marymount University<br />
+          <a href="donna.Schaeffer@marymount.edu">Donna Schaeffer</a>, Marymount University<br />
+          <a href="michelle.liu@marymount.edu">Michelle Liu</a>, Marymount University      
+   </dd> 
+   </dl>
+
+   </div><!--start_main-->
+
+
+
+<!--#include virtual="common/std_foot.shtml" -->
+

@@ -1,0 +1,121 @@
+% ccsc.sty
+
+% ---- Identification Part ----
+\NeedsTeXFormat{LaTeX2e}[1996/06/01]
+\ProvidesPackage{ccsc}[2006/02/26 v1.1 (SGC, RZ)]
+
+% Version 1.1 by Rick Zaccone
+%    -- significant enhancements from originalo
+% Version 1.2 by Stephen Corbesero
+%    -- handle draft options
+%    -- mark different sections
+
+
+% ---- Initial Code Part ----
+\RequirePackage{ifthen}
+\newboolean{draftmode}
+
+
+% ---- Declaration of Options ----
+
+\DeclareOption{draft}{\setboolean{draftmode}{true}}
+
+% ---- Execution of Options ----
+
+\ProcessOptions
+
+% ---- Package Loading ---
+
+
+
+\RequirePackage{times,mathptmx}     % Use Times-Roman
+\RequirePackage{indentfirst}        % Indent first paragraph in a section
+
+% ---- Main Code ----
+
+% Left and right margins are 1.35"
+\setlength{\oddsidemargin}{.35in}
+\setlength{\evensidemargin}{.35in}
+\setlength{\textwidth}{5.8in}
+
+% Top and bottom margins are .5".
+\setlength{\topmargin}{-0.86in} % Top of page to top of header is .14"
+\setlength{\headheight}{0.22in} % Header height
+\setlength{\headsep}{0.14in}    % Distance between bottom of header and body.
+\setlength{\textheight}{10.0in}
+
+% Vertically center the page number in the half inch margin.
+\setlength{\footskip}{0.36in}
+
+\setlength{\parskip}{0.06in}
+\setlength{\parindent}{0.35in}
+
+\ifthenelse{\boolean{draftmode}}
+  {\pagestyle{plain}}           % page numbers for drafts
+  {\pagestyle{empty}}           % but not for the final copy
+
+\renewcommand{\ttdefault}{cmtt}
+
+\renewcommand{\refname}{REFERENCES}
+\renewcommand{\abstractname}{ABSTRACT}
+
+\renewcommand{\section}{\@startsection
+  {section}%
+  {1}%
+  {0mm}%
+  {-\baselineskip}%
+  {0.5\baselineskip}%
+  {\normalfont\normalsize\upshape\bfseries\MakeUppercase}%
+}
+
+\renewcommand{\subsection}{\@startsection
+  {subsection}%
+  {2}%
+  {0mm}%
+  {-0.5\baselineskip}%
+  {0.25\baselineskip}%
+  {\normalfont\normalsize\upshape\bfseries}%
+}
+
+% It's not clear if the text should start on a new line.  If it
+% should, change the afterskip.
+\renewcommand{\subsubsection}{\@startsection
+  {subsubsection}% Name
+  {3}% Level
+  {\parindent}% Indent
+  {-3.25ex\@plus -1ex \@minus -.2ex}% beforeskip
+  {-1em}% afterskip.  Change to {1.5ex \@plus .2ex} maybe?
+  {\normalfont\normalsize\bfseries}% style
+}
+
+% The abstract is the same font size as the rest of the paper (was \small).
+% First line of abstract is not indented (was quotation environment).
+\renewenvironment{abstract}{%
+      \normalsize
+      \begin{center}%
+        {\bfseries \abstractname\vspace{-.5em}\vspace{\z@}}%
+      \end{center}%
+      \quote}{\endquote}
+
+% If the font size is 12, the title will be 14.  The author and date
+% will be 12.
+\def\@maketitle{%
+  \newpage
+  \null
+  \vskip 2em%
+  \begin{center}%
+  \let \footnote \thanks
+    {\large \@title \par}%
+    \vskip 1.5em%
+    {\normalsize
+      \lineskip .5em%
+      \begin{tabular}[t]{c}%
+        \@author
+      \end{tabular}\par}%
+    \vskip 1em%
+    {\normalsize \@date}%
+  \end{center}%
+  \par
+  \vskip 1.5em}
+
+\bibliographystyle{acm}

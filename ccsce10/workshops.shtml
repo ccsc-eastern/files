@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+                 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml"   xml:lang="en">
+  <head>
+    <base href="http://projects.juniata.edu/ccsce10/" /> 
+    <link rel="stylesheet" 
+       href="common/ccsce08_screenstyle.css" type="text/css" media="screen" />
+    <link rel="stylesheet" 
+       href="common/ccsce08_printstyle.css" type="text/css" media="print" />
+
+   <script type="text/javascript">
+     <!--//--><![CDATA[//><!--
+   
+       function clearText(e) {
+           if(e.value == "Google Search")
+           {
+                e.value = "";
+                e.className = "googletype";
+           }  
+       }
+   
+     //--><!]]>
+   </script>
+
+  <title>CCSCE 2010 Conference - Juniata College, Huntingdon PA</title>
+    <meta name="description" content="Juniata College, Huntingdon, Pennsylvania, hosts the Consortium for Computing Sciences in Colleges 2010 Eastern Conference, CCSCE2010." />
+    <style type="text/css">
+        *.shout {color: red; font-weight: bold;}
+
+    .nova1 {color: #FF0000}
+.style1 {color: #000000}
+    </style>
+  </head>
+  <body id="homepage"> 
+  <div id="wrapper">
+  
+    <div id="dept_name" >
+    <ol title="internal page navigation" class="access_item">
+      <li><a href="/index.shtml#start_main" 
+             title="Beginning of page content.">Skip to main content</a></li>
+      <li><a href="/index.shtml#nav_column" 
+             title="Additional navigation.">Skip to sidebar</a></li>
+    </ol>
+    
+<!-- lines below inserted by Dr Joyce Dec 2, 2008 -->  
+<img src="CCimages/eastern.png" 
+ alt="Eastern region" width="193" height="186" border="0" 
+ style="float:left;" >
+
+<img src="CCimages/ccsc.jpg" alt="ccsc east" width="581" height="70"  
+style="margin: 20px 0px">
+
+<div style="font-size: 1em; text-align: center;">
+<p style="margin-top: 0;">26th Annual Eastern Conference 2010<br />
+   <span style="font-size: smaller;">October 15 and 16, 2010 &nbsp;
+   Juniata College, Huntingdon, Pennsylvania</span><br />
+   <em>Getting There is Half the Fun</em>
+
+</p>
+</div>
+
+<!-- end of lines inserted by Dr Joyce Dec 2, 2008 ?????  -->
+
+</div> <!--dept_name -->
+<div class="breaker"></div>
+
+ 
+    <div id="nav_column">
+         <!-- Navigation: TOC -->
+  <h2>CCSCE 2010:</h2>
+  
+  <h3>Conference Information</h3>
+  <ol>
+       <li><a href="http://projects.juniata.edu/ccsce10/index.shtml">CCSCE10 Home</a></li>
+       <li><a href="pdf/CFPBrochure10.pdf"target="_blank">Call for Participation Brochure 2010</a> <span class="teeny">(PDF, updated 03/10)</span></li> 
+       <li><a href="pdf/Program2010.pdf">Program</a></li>
+       <li><a href="pdf/Pocket2010.pdf">Pocket Program</a> <span class="teeny">(PDF, updated 09/10)</span></li>
+       <li><a href="papers/reviewers/index.html">Call for Reviewers</a></li>
+       <li><a href="registration.shtml">Registration Fees &amp; Forms</a></li>
+       <li><a href="vendors.shtml">Vendor Information</a></li>
+       <li><a href="committee.shtml">Conference Committee</a></li>
+       <li><a href="steering.shtml">CCSC Eastern Steering Committee</a></li>
+       <li><a href="k-12.shtml">K-12 Information</a></li>
+  </ol>
+
+  <h3>Submissions</h3>
+     <ol>
+ 
+      <!-- <li><a href="http://acharya.ramapo.edu/~csconf/ccsce/2009/authors/index.html"target="_blank">Call for Papers</a></li>
+       <li><a href="panels.shtml">Panels</a></li>
+       <li><a href="workshops.shtml">Workshops &amp; Tutorials</a></li>
+       <li><a href="nifty.shtml">Nifty Ideas &amp; Lightning Talks</a></li>
+       
+       <li><a href="contest.shtml">Student Programming Contest</a></li>-->
+<!--
+       <li>Student Programming Contest - info coming soon</a></li>
+-->
+<font color="grey">
+	<li><a href="papers/index.html">Papers</a></li>
+	<ul>
+		<li><a href="papers/authors/index.html">Authors</a></li>
+		<li><a href="papers/reviewers/index.html">Reviewers</a></li>
+		<li><a href="papers/presenters/index.html">Presenters</a></li>
+	</ul>
+       <li><a href="panels.shtml">Panels</a></li>
+       <li><a href="workshops.shtml">Workshops &amp; Tutorials</a></li>
+       <li><a href="nifty.shtml">Nifty Ideas &amp; Lightning Talks</a></li>
+	 <li><a href="posters.shtml">Faculty &amp; Student Posters </a></li>
+       <li><a href="contest.shtml">Student Programming Contest</a></li>
+</font>
+  </ol>
+
+   <h3>Local Information</h3>
+   <ol>
+		<li><a href="accommodations.shtml">Accommodations</a></li>
+   		<li><a href="http://www.raystown.org/"target="_blank">Visitors Bureau</a></li>
+		<li><a href="http://www.juniata.edu/about/visit"target="_blank">Visit Juniata</a></li>
+		<li><a href="http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=100914368038453615556.000475fc9439c3dc5a6e9&ll=40.498594,-78.015397&spn=0.010834,0.022724&t=h&z=16"target="_blank">Google Map</a></li>
+		<li><a href="pdf/juniata_college_campus_map.pdf"target="_blank">Campus Map</a> <span class="teeny">(PDF)</span></li>
+		<li><a href="pdf/BACMap.pdf"target="_blank">Building Layout</a><span class="teeny">(PDF)</span></li>
+
+      <!-- <li><a href="hotel.shtml">Conference Hotel</a></li>
+       <li><a href="http://www.villanova.edu/studentlife/specprograms/parents/visit/hotels.htm"target="_blank">Other Hotels &amp; Motels</a></li>	
+       <li><a href="http://www.villanova.edu/enroll/admission/visit/maps/index.htm"target="_blank">Travel Directions</a></li>	
+       <li><a href="http://www.villanova.edu/services/assets/documents/conferenceservices/map.pdf"target="_blank">Campus Map &amp; Parking</a></li>
+       <li><a href="http://pennsylvania.hometownlocator.com/PA/Delaware/Villanova.cfm"target="_blank">Villanova, Pennsylvania</a></li>-->
+  </ol>
+
+   <h3>Sponsoring Organizations</h3>
+   <ol>
+       <li><a href="http://ccsc.org"target="_blank">Consortium for Computing Sciences in Colleges (CCSC)</a></li>	
+       <li><a href="http://www.sigcse.org/"target="_blank">ACM-SIGCSE</a></li>	
+	 <li><a href="http://upe.acm.org/"target="_blank">Upsilon Pi Epsilon</a></li>
+	 <li><a href="http://www.minitab.com/"target="_blank">Minitab</a></li>
+	 <li><a href="http://www.dsiiti.com/"target="_blank">Digital Solutions/Inmate Telephone, Inc.</a></li>
+       <li><a href="http://www.juniata.edu/"target="_blank">Juniata College </a></li>
+       <li><a href="http://www.juniata.edu/departments/itcs/"target="_blank">Juniata College Information Technology and Computer Science </a></li>
+</ol>
+   <h3>National Partners</h3>
+   <ol>
+       <li><a href="http://www.cengage.com"target="_blank">Cengage Learning</a></li>	
+       <li><a href="http://www.microsoft.com"target="_blank">Microsoft Corporation</a></li>
+       <li><a href="http://www.panasonic.com"target="_blank">Panasonic Corporation	
+       <li><a href="http://www.shodor.org"target="_blank">Shodor</a></li>
+       <li><a href="http://turingscraft.com"target="_blank">Turing's Craft</a></li>
+   </ol>
+
+     <hr style="width: 50%" />
+      <p style="text-align: center">October 15 and 16, 2010<br />
+         Juniata College<br /> 
+         Huntingdon, PA </p>
+      
+
+    </div> <!-- /nav_column -->
+    
+    <div id="main" class="central_column" >
+
+
+   <h2 class="head">Workshops &amp; Tutorials</h2>
+
+
+
+<img src="CCimages/workshop.jpg" alt="" style="margin-left:25px;" />
+
+<div class="floatbox">
+
+   <p><em>Contents</em></p>
+
+      <ul>
+
+      <li><a href="workshops.shtml#whatW">What is a Workshop?</a></li>
+
+      <li><a href="workshops.shtml#whatT">What is a Tutorial?</a></li>
+
+      <li><a href="workshops.shtml#whatS">What to Submit</a></li>
+
+      <li><a href="workshops.shtml#format">How to Format a Workshop/Tutorial Proposal</a></li>
+
+      <li><a href="workshops.shtml#submit">How to Submit a Workshop/Tutorial Proposal</a></li>
+
+      <li><a href="workshops.shtml#contact">Contact Information</a></li>
+
+   </ul>
+
+
+
+   <p><em>Important Dates</em></p>
+
+      <ul>
+
+      <li>May 3: Proposal Submission deadline</li>
+
+      <li>June 1: Presenter Notification</li>
+
+      <li>June 22: Camera-ready copy due</li>
+
+   </ul>
+
+</div>
+
+
+
+<h3 id="whatW">What is a Workshop? </h3>
+
+
+
+<p>Workshops are intended to provide an in-depth review of a topic of interest, designed to be immediately useful in the classroom. To this end, workshop presenters should plan to provide participants with a set of handouts outlining the material covered in the workshop. We plan to offer a limited number of workshops involving hands-on computer use by participants. All CCSCE workshops will be either 2 or 3 hours. </p>
+
+
+
+<p>Workshop Proposals undergo review, although not a blind review. Proposals are evaluated for relevance, anticipated interest, quality, and the availability of appropriate facilities. </p>
+
+
+
+<h3 id="whatT">What is a Tutorial? </h3>
+
+
+
+<p>Tutorials are conference sessions, 75 minutes in length, in which instruction takes place. The presenter is typically an expert on the topic being presented, and attendees are usually novices. The session may consist of lecture-style instruction, or may involve active learning techniques such as pen and paper exercises or computer use. </p>
+
+
+
+<p>Tutorial Sessions proposal review is not blind. Criteria used in reviewing the proposals will include the likely level of interest of the topic.</p>
+
+
+
+<h3 id="whatS">What to Submit</h3>
+
+
+
+<p>Workshop or tutorial proposals consist of two documents: the full proposal and an abstract (description). The full proposal is used for the review process. The abstract is the description that appears in the conference proceedings. The format of these documents is desribed in the next sections.</p>
+
+
+
+<h3 id="format">How to Format a Workshop/Tutorial Proposal</h3>
+
+
+
+<p>Document 1. Workshop or Tutorial Proposal Format (limited to 2 pages).</p>
+
+
+
+<p>The full proposal is written in Times Roman, 12 pt. font. The page format is for 8 1/2 x 11 paper, 1 column, single spaced, and 1.35 inch margins (left, right) and 0.5 inch (top, bottom). Include all of the following information, in the order given below: </p>
+
+<ul>
+
+<li>Workshop or Tutorial Title </li>
+
+<li>Presenters 
+
+   <ul>
+
+   <li>Contact Person: 
+
+      <ul>
+
+         <li>name </li>
+
+      <li>department </li>
+
+      <li>college, university, or other affiliation </li>
+
+      <li>address </li>
+
+      <li>telephone number </li>
+
+      <li>fax number </li>
+
+      <li>e-mail address </li>
+
+      </ul></li>
+
+
+
+   <li>Other presenters. For each presenter, include the following information: 
+
+      <ul>
+
+         <li>name </li>
+
+         <li>department </li>
+
+         <li>college, university, or other affiliation </li>
+
+         <li>e-mail address </li>
+
+      </ul></li>
+
+   </ul></li>
+
+
+
+<li>Workshop Abstract (Description) 
+
+   <ul>
+
+      <li>100 word limit. If the workshop is accepted, this abstract is the description that will be published (verbatim) in the Symposium program and proceedings. Please be sure your description is accurate. </li>
+
+   </ul></li>
+
+
+
+<li>Tutorial Abstract (Description) 
+
+   <ul>
+
+      <li>500 word limit. If the tutorial is accepted, this abstract is the description that will be published (verbatim) in the Symposium program and proceedings. Please be sure your description is accurate. </li>
+
+   </ul></li>
+
+
+
+<li>Presenter(s) background/biography 
+
+   <ul>
+
+      <li>Please provide a brief biography addressing your qualifications for presenting the proposed workshop or tutorial. </li>
+
+   </ul></li>
+
+
+
+<li>Intended audience 
+
+   <ul>
+
+      <li>For whom is this workshop or tutorial intended? </li>
+
+   </ul></li>
+
+
+
+<li>Description of materials provided to participants 
+
+   <ul>
+
+      <li>Please describe any handouts, software or other materials that will be 
+
+   provided to attendees. </li>
+
+   </ul></li>
+
+
+
+<li>Audio/Visual/Computer requirements 
+
+   <ul>
+
+      <li>What are your A/V/C requirements? If this is a hands-on workshop, indicate laptop or fixed lab, and fully describe the hardware and software that will be required (clear descriptions of minimum system requirements are particularly important for laptop workshops). </li>
+
+      <li>Indicate if attendees must bring their own laptops. </li>
+
+   </ul></li>
+
+</ul>
+
+
+
+<h3 id="submit">How to Submit a Workshop/Tutorial Proposal</h3>
+
+<p>If you haven't already done so, create an account on our
+<a href="https://cmt.research.microsoft.com/CCSC2010/">submission and
+review system</a>. Using this sytem, you can submit your workshop or tutorial for review. 
+If you are submitting more than one item to the conference, you
+may use this account for all submissions. Please
+make sure of the following with regard to your proposal:
+<ul>
+   <li> Write your proposal document using the format specified 
+   above. </li>
+   <li> Convert the proposal document into Adobe PDF format </li>
+   <li> Submit the PDF document to the <a href="https://cmt.research.microsoft.com/CCSC2010/">submission and
+	review system</a>.</li>
+</ul>
+
+If you experience problems with this site, please email the <a href="mailto:ccsce10@juniata.edu">conference chairs</a> for assistance.
+
+</p>
+
+<h3 id="contact">Contact Information</h3>
+
+
+
+<p>Panels, Workshops, and Tutorials Co-Chairs:<br />
+         <a href="mailto:kwatt@mtaloy.edu">Karen Watt</a>, Mount Aloysius College<br /> 
+ 
+         <a href="mailto:highley@lasalle.edu">T.J. Highley</a>, La Salle University</p>
+
+
+   </div><!--/main-->
+
+  <div class="breaker"></div>
+  <div id="footer">
+    Comments and questions to <a href="mailto:ccsce10@juniata.edu">ccsce10@juniata.edu</a><br />
+    <address>
+    Department of Information Technology and Computer Science, 
+      Juniata College<br /> 
+      1700 Moore Street, Huntingdon, PA 16652 ~ 
+      Phone (814)641-3000
+    </address>
+  </div> <!--footer-->
+
+</div> <!--wrapper-->  
+
+<div id="wrapper2">
+       <div id="badges" class="no_print">
+         <a href="http://validator.w3.org/check?uri=referer">
+           <img  src="http://www.w3.org/Icons/valid-xhtml10-blue.png"
+                 alt="Valid XHTML 1.0!" 
+                 class="w3badge" /></a>
+         <a href="http://jigsaw.w3.org/css-validator/" title="W3C CSS Validator">
+           <img  src="http://www.w3.org/Icons/valid-css1-blue.png" 
+               alt="Valid CSS!"
+               class="w3badge" /></a>
+       </div><!--badges-->
+       <div style="font-size: 0.7em;text-align: left;">
+         
+          Last Modified:  20 July 2010
+       </div><!--badges-->
+</div> <!--wrapper2-->
+
+</body>
+</html>
+

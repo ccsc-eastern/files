@@ -1,0 +1,46 @@
+<!--#include virtual="common/std_head_1.html" -->
+  <title>CCSCE 2008 Conference - Villanova University, Villanova PA; CCSCE Steering Committee</title>
+    <meta name="description" content="Villanova University, Villanova, Pennsylvania, hosts the Consortium for Computing Sciences in Colleges 2008 Eastern Conference, CCSCE2008." />
+  <style type="text/css">
+      dt {
+         font-size: 105%;
+         margin-top: .7em;
+         }
+      dd {
+         font-style: italic;
+         }
+  </style>
+  </head>
+  <body id="steering">
+  <div id="wrapper">
+  
+    <!--#include virtual="common/std_head_3.html" -->
+    <!--#include virtual="common/std_head_2.shtml" -->
+ 
+    <div id="nav_column">
+        <!--#include virtual="common/quick_nav.html" -->
+    </div> <!-- /nav_column -->
+    
+    <div id="start_main" class="central_column" >
+
+   <h2 class="head">Eastern Region Steering Committee</h2>
+      <ul style="list-style-type: none;">
+         <li><a href="mailto:adamses@jmu.edu"> Elizabeth Adams</a>, James Madison University</li>
+         <li><a href="mailto:andrianoff@sbu.edu">Steven Andrianoff</a>, St. Bonaventure University</li>
+         <li><a href="mailto:anewalt@umw.edu">Karen Anewalt</a>, University of Mary Washington</li>
+         <li><a href="mailto:beidler@uofs.edu">Jack Beidler</a>, University of Scranton</li>
+         <li><a href="mailto:benjamin@muhlenberg.edu">George Benjamin</a>, Muhlenberg College</li>
+         <li><a href="mailto:chang@hood.edu">Elizabeth Chang</a>, Hood College</li>
+         <li><a href="mailto:deremerd@mail.montclair.edu">Dorothy Deremer</a>, Montclair State University</li>
+         <li><a href="mailto:jfritz@sjcny.edu">S. Jane Fritz</a>, St. Joseph's College</li>
+         <li><a href="mailto:amruth@ramapo.edu">Amruth Kumar</a>, Ramapo College</li>
+         <li><a href="mailto:jmeinke@ed.umuc.edu">John Meinke</a>, University of Maryland University College</li>
+         <li><a href="mailto:polack@umw.edu">Jennifer Polack-Wahl</a>, University of Mary Washington</li>
+         <li><a href="mailto:sidbury@uofs.edu">James R. Sidbury</a>, University of Scranton</li>
+         <li><a href="mailto:Onkar.Sharma@Marist.edu">Onkar Sharma</a>, Marist College</li>
+         <li><a href="mailto:woodwrth@ithaca.edu">Pat Woodworth</a>, Ithaca College</li>
+      </ul>
+  
+   </div><!--start_main-->
+
+<!--#include virtual="common/std_foot.shtml" -->

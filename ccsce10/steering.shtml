@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+                 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml"   xml:lang="en">
+  <head>
+    <base href="http://projects.juniata.edu/ccsce10/" /> 
+    <link rel="stylesheet" 
+       href="common/ccsce08_screenstyle.css" type="text/css" media="screen" />
+    <link rel="stylesheet" 
+       href="common/ccsce08_printstyle.css" type="text/css" media="print" />
+
+   <script type="text/javascript">
+     <!--//--><![CDATA[//><!--
+   
+       function clearText(e) {
+           if(e.value == "Google Search")
+           {
+                e.value = "";
+                e.className = "googletype";
+           }  
+       }
+   
+     //--><!]]>
+   </script>
+
+  <title>CCSCE 2010 Conference - Juniata College, Huntingdon PA; Conference Committee</title>
+    <meta name="description" content="Juniata College, Huntingdon, Pennsylvania, hosts the Consortium for Computing Sciences in Colleges 2010 Eastern Conference, CCSCE2010." />
+    <style type="text/css">
+        *.shout {color: red; font-weight: bold;}
+
+    .nova1 {color: #FF0000}
+.style1 {color: #000000}
+    </style>
+  </head>
+  <body id="homepage"> 
+  <div id="wrapper">
+  
+    <div id="dept_name" >
+    <ol title="internal page navigation" class="access_item">
+      <li><a href="/index.shtml#start_main" 
+             title="Beginning of page content.">Skip to main content</a></li>
+      <li><a href="/index.shtml#nav_column" 
+             title="Additional navigation.">Skip to sidebar</a></li>
+    </ol>
+    
+<!-- lines below inserted by Dr Joyce Dec 2, 2008 -->  
+<img src="CCimages/eastern.png" 
+ alt="Eastern region" width="193" height="186" border="0" 
+ style="float:left;" >
+
+<img src="CCimages/ccsc.jpg" alt="ccsc east" width="581" height="70"  
+style="margin: 20px 0px">
+
+<div style="font-size: 1em; text-align: center;">
+<p style="margin-top: 0;">26th Annual Eastern Conference 2010<br />
+   <span style="font-size: smaller;">October 15 and 16, 2010 &nbsp;
+   Juniata College, Huntingdon, Pennsylvania</span><br />
+   <em>Getting There is Half the Fun</em>
+
+</p>
+</div>
+
+<!-- end of lines inserted by Dr Joyce Dec 2, 2008 ?????  -->
+
+</div> <!--dept_name -->
+<div class="breaker"></div>
+
+ 
+    <div id="nav_column">
+         <!-- Navigation: TOC -->
+  <h2>CCSCE 2010:</h2>
+  
+  <h3>Conference Information</h3>
+  <ol>
+       <li><a href="http://projects.juniata.edu/ccsce10/index.shtml">CCSCE10 Home</a></li>
+       <li><a href="pdf/CFPBrochure10.pdf"target="_blank">Call for Participation Brochure 2010</a> <span class="teeny">(PDF, updated 03/10)</span></li> 
+       <li><a href="pdf/Program2010.pdf">Program</a></li>
+       <li><a href="pdf/Pocket2010.pdf">Pocket Program</a> <span class="teeny">(PDF, updated 09/10)</span></li>
+       <li><a href="papers/reviewers/index.html">Call for Reviewers</a></li>
+       <li><a href="registration.shtml">Registration Fees &amp; Forms</a></li>
+       <li><a href="vendors.shtml">Vendor Information</a></li>
+       <li><a href="committee.shtml">Conference Committee</a></li>
+       <li><a href="steering.shtml">CCSC Eastern Steering Committee</a></li>
+       <li><a href="k-12.shtml">K-12 Information</a></li>
+  </ol>
+
+  <h3>Submissions</h3>
+     <ol>
+ 
+      <!-- <li><a href="http://acharya.ramapo.edu/~csconf/ccsce/2009/authors/index.html"target="_blank">Call for Papers</a></li>
+       <li><a href="panels.shtml">Panels</a></li>
+       <li><a href="workshops.shtml">Workshops &amp; Tutorials</a></li>
+       <li><a href="nifty.shtml">Nifty Ideas &amp; Lightning Talks</a></li>
+       <li><a href="posters.shtml">Faculty &amp; Student Posters </a></li>
+
+       <li><a href="contest.shtml">Student Programming Contest</a></li>-->
+<!--
+       <li>Student Programming Contest - info coming soon</a></li>
+-->
+<font color="grey">
+	<li><a href="papers/index.html">Papers</a></li>
+	<ul>
+		<li><a href="papers/authors/index.html">Authors</a></li>
+		<li><a href="papers/reviewers/index.html">Reviewers</a></li>
+		<li><a href="papers/presenters/index.html">Presenters</a></li>
+	</ul>
+       <li><a href="panels.shtml">Panels</a></li>
+       <li><a href="workshops.shtml">Workshops &amp; Tutorials</a></li>
+       <li><a href="nifty.shtml">Nifty Ideas &amp; Lightning Talks</a></li>
+	 <li><a href="posters.shtml">Faculty &amp; Student Posters </a></li>
+       <li><a href="contest.shtml">Student Programming Contest</a></li>
+</font>
+  </ol>
+
+   <h3>Local Information</h3>
+   <ol>
+		<li><a href="accommodations.shtml">Accommodations</a></li>
+   		<li><a href="http://www.raystown.org/"target="_blank">Visitors Bureau</a></li>
+		<li><a href="http://www.juniata.edu/about/visit"target="_blank">Visit Juniata</a></li>
+		<li><a href="http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=100914368038453615556.000475fc9439c3dc5a6e9&ll=40.498594,-78.015397&spn=0.010834,0.022724&t=h&z=16"target="_blank">Google Map</a></li>
+		<li><a href="pdf/juniata_college_campus_map.pdf"target="_blank">Campus Map</a> <span class="teeny">(PDF)</span></li>
+		<li><a href="pdf/BACMap.pdf"target="_blank">Building Layout</a><span class="teeny">(PDF)</span></li>
+
+      <!-- <li><a href="hotel.shtml">Conference Hotel</a></li>
+       <li><a href="http://www.villanova.edu/studentlife/specprograms/parents/visit/hotels.htm"target="_blank">Other Hotels &amp; Motels</a></li>	
+       <li><a href="http://www.villanova.edu/enroll/admission/visit/maps/index.htm"target="_blank">Travel Directions</a></li>	
+       <li><a href="http://www.villanova.edu/services/assets/documents/conferenceservices/map.pdf"target="_blank">Campus Map &amp; Parking</a></li>
+       <li><a href="http://pennsylvania.hometownlocator.com/PA/Delaware/Villanova.cfm"target="_blank">Villanova, Pennsylvania</a></li>-->
+  </ol>
+
+   <h3>Sponsoring Organizations</h3>
+   <ol>
+       <li><a href="http://ccsc.org"target="_blank">Consortium for Computing Sciences in Colleges (CCSC)</a></li>	
+       <li><a href="http://www.sigcse.org/"target="_blank">ACM-SIGCSE</a></li>	
+	 <li><a href="http://upe.acm.org/"target="_blank">Upsilon Pi Epsilon</a></li>
+	 <li><a href="http://www.minitab.com/"target="_blank">Minitab</a></li>
+	 <li><a href="http://www.dsiiti.com/"target="_blank">Digital Solutions/Inmate Telephone, Inc.</a></li>
+       <li><a href="http://www.juniata.edu/"target="_blank">Juniata College </a></li>
+       <li><a href="http://www.juniata.edu/departments/itcs/"target="_blank">Juniata College Information Technology and Computer Science </a></li>
+</ol>
+   <h3>National Partners</h3>
+   <ol>
+       <li><a href="http://www.cengage.com"target="_blank">Cengage Learning</a></li>	
+       <li><a href="http://www.microsoft.com"target="_blank">Microsoft Corporation</a></li>
+       <li><a href="http://www.panasonic.com"target="_blank">Panasonic Corporation	
+       <li><a href="http://www.shodor.org"target="_blank">Shodor</a></li>
+       <li><a href="http://turingscraft.com"target="_blank">Turing's Craft</a></li>
+   </ol>
+
+     <hr style="width: 50%" />
+      <p style="text-align: center">October 15 and 16, 2010<br />
+         Juniata College<br /> 
+         Huntingdon, PA </p>
+      
+
+    </div> <!-- /nav_column -->
+   
+    <div id="start_main" class="central_column" >
+
+   <h2 class="head">Eastern Region Steering Committee</h2>
+      <ul style="list-style-type: none;">
+         <li><a href="mailto:adamses@jmu.edu"> Elizabeth Adams</a>, James Madison University</li>
+         <li><a href="mailto:andrianoff@sbu.edu">Steven Andrianoff</a>, St. Bonaventure University</li>
+         <li><a href="mailto:anewalt@umw.edu">Karen Anewalt</a>, University of Mary Washington</li>
+         <li><a href="mailto:beidler@uofs.edu">Jack Beidler</a>, University of Scranton</li>
+         <li><a href="mailto:benjamin@muhlenberg.edu">George Benjamin</a>, Muhlenberg College</li>
+         <li><a href="mailto:chang@hood.edu">Elizabeth Chang</a>, Hood College</li>
+         <li><a href="mailto:deremerd@mail.montclair.edu">Dorothy Deremer</a>, Montclair State University</li>
+         <li><a href="mailto:jfritz@sjcny.edu">S. Jane Fritz</a>, St. Joseph's College</li>
+	 <li><a href="mailto:don.goelman@villanova.edu">Don Goelman</a>, Villanova University</li>
+         <li><a href="mailto:amruth@ramapo.edu">Amruth Kumar</a>, Ramapo College</li>
+         <li><a href="mailto:jmeinke@ed.umuc.edu">John Meinke</a>, University of Maryland University College</li>
+         <li><a href="mailto:polack@umw.edu">Jennifer Polack-Wahl</a>, University of Mary Washington</li>
+         <li><a href="mailto:sidbury@uofs.edu">James R. Sidbury</a>, University of Scranton</li>
+         <li><a href="mailto:Onkar.Sharma@Marist.edu">Onkar Sharma</a>, Marist College</li>
+         <li><a href="mailto:woodwrth@ithaca.edu">Pat Woodworth</a>, Ithaca College</li>
+      </ul>
+  
+   </div><!--start_main-->
+
+
+  <div class="breaker"></div>
+  <div id="footer">
+    Comments and questions to <a href="mailto:ccsce10@juniata.edu">ccsce10@juniata.edu</a><br />
+    <address>
+    Department of Information Technology and Computer Science, 
+      Juniata College<br /> 
+      1700 Moore Street, Huntingdon, PA 16652 ~ 
+      Phone (814)641-3000
+    </address>
+  </div> <!--footer-->
+
+</div> <!--wrapper-->  
+
+<div id="wrapper2">
+       <div id="badges" class="no_print">
+         <a href="http://validator.w3.org/check?uri=referer">
+           <img  src="http://www.w3.org/Icons/valid-xhtml10-blue.png"
+                 alt="Valid XHTML 1.0!" 
+                 class="w3badge" /></a>
+         <a href="http://jigsaw.w3.org/css-validator/" title="W3C CSS Validator">
+           <img  src="http://www.w3.org/Icons/valid-css1-blue.png" 
+               alt="Valid CSS!"
+               class="w3badge" /></a>
+       </div><!--badges-->
+       <div style="font-size: 0.7em;text-align: left;">
+         
+          Last Modified:  20 July 2010
+       </div><!--badges-->
+</div> <!--wrapper2-->
+
+</body>
+</html>
+
